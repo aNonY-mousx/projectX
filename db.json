@@ -1,6 +1,6 @@
 {
-    title: "collegeApi",
-    version: 1.0,
-    description: "simple fetchable Api that can be used by any frontend" 
+    "title": "collegeApi",
+    "versivn": 1.0,
+    "description": "simple fetchable Api that can be used by any frontend" 
 
 }
